@@ -13,8 +13,8 @@ cursor.execute(
         data_fish NUMBER NOT NULL,
         data_star NUMBER NOT NULL,
         tarefa_about STRING NOT NULL
-    
-    
-    '''
+    )
+ '''
          
 )
+comn.commit()
